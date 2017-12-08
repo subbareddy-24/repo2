@@ -1,4 +1,6 @@
 https://glenmazza.net/blog/entry/junit-soap-client
+https://dzone.com/articles/you-dont-need-mock-your-soap
+http://www.thinkcode.se/blog/2011/11/16/testing-a-web-service-with-soapui-junit-maven-and-cucumber
 
 package client;
 
